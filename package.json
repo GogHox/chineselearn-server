@@ -1,0 +1,19 @@
+{
+  "name": "chineselearn-server",
+  "version": "1.0.0",
+  "description": "This is a server of Chinese Learn APP.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chineselearn",
+    "server"
+  ],
+  "author": "Jun",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mysql": "^2.15.0"
+  }
+}
